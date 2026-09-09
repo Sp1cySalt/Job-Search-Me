@@ -1,0 +1,15 @@
+2026-09-09 10:01:15,426 [INFO] Fetched 21 matching jobs across all sources before dedup.
+2026-09-09 10:01:15,427 [INFO] 21 of those are new since the last run.
+2026-09-09 10:01:29,161 [INFO] Done. Notified 15 jobs, 6 additional matches not sent (cap reached).
+2026-09-09 10:31:21,258 [INFO] Fetched 4 matching jobs across all sources before dedup.
+2026-09-09 10:31:21,259 [INFO] 0 of those are new since the last run.
+2026-09-09 10:31:21,259 [INFO] No new jobs. Done.
+2026-09-09 10:39:50,165 [INFO] Fetched 273 matching jobs across all sources before dedup.
+2026-09-09 10:39:50,167 [INFO] 272 of those are new since the last run.
+2026-09-09 10:39:54,848 [INFO] Done. Notified 5 jobs, 267 additional matches not sent (cap reached).
+2026-09-09 10:59:08,818 [INFO] Fetched 273 matching jobs across all sources before dedup.
+2026-09-09 10:59:08,819 [INFO] 1 of those are new since the last run.
+2026-09-09 10:59:10,217 [INFO] Done. Notified 1 jobs, 0 additional matches not sent (cap reached).
+2026-09-09 11:04:15,909 [INFO] Fetched 283 matching jobs across all sources before dedup.
+2026-09-09 11:04:15,910 [INFO] 38 of those are new since the last run.
+2026-09-09 11:04:21,082 [INFO] Done. Notified 5 jobs, 33 additional matches not sent (cap reached).
